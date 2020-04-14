@@ -135,11 +135,6 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="book-1.xhtml"/>
-		<itemref idref="book-2.xhtml"/>
-		<itemref idref="book-3.xhtml"/>
-		<itemref idref="book-4.xhtml"/>
-		<itemref idref="book-5.xhtml"/>
-		<itemref idref="book-6.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
@@ -147,6 +142,7 @@
 		<itemref idref="chapter-5.xhtml"/>
 		<itemref idref="chapter-6.xhtml"/>
 		<itemref idref="chapter-7.xhtml"/>
+		<itemref idref="book-2.xhtml"/>
 		<itemref idref="chapter-8.xhtml"/>
 		<itemref idref="chapter-9.xhtml"/>
 		<itemref idref="chapter-10.xhtml"/>
@@ -155,6 +151,7 @@
 		<itemref idref="chapter-13.xhtml"/>
 		<itemref idref="chapter-14.xhtml"/>
 		<itemref idref="chapter-15.xhtml"/>
+		<itemref idref="book-3.xhtml"/>
 		<itemref idref="chapter-16.xhtml"/>
 		<itemref idref="chapter-17.xhtml"/>
 		<itemref idref="chapter-18.xhtml"/>
@@ -162,12 +159,14 @@
 		<itemref idref="chapter-20.xhtml"/>
 		<itemref idref="chapter-21.xhtml"/>
 		<itemref idref="chapter-22.xhtml"/>
+		<itemref idref="book-4.xhtml"/>
 		<itemref idref="chapter-23.xhtml"/>
 		<itemref idref="chapter-24.xhtml"/>
 		<itemref idref="chapter-25.xhtml"/>
 		<itemref idref="chapter-26.xhtml"/>
 		<itemref idref="chapter-27.xhtml"/>
 		<itemref idref="chapter-28.xhtml"/>
+		<itemref idref="book-5.xhtml"/>
 		<itemref idref="chapter-29.xhtml"/>
 		<itemref idref="chapter-30.xhtml"/>
 		<itemref idref="chapter-31.xhtml"/>
@@ -175,6 +174,7 @@
 		<itemref idref="chapter-33.xhtml"/>
 		<itemref idref="chapter-34.xhtml"/>
 		<itemref idref="chapter-35.xhtml"/>
+		<itemref idref="book-6.xhtml"/>
 		<itemref idref="chapter-36.xhtml"/>
 		<itemref idref="chapter-37.xhtml"/>
 		<itemref idref="chapter-38.xhtml"/>
