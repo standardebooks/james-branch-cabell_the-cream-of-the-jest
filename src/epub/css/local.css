@@ -1,6 +1,25 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+[epub|type~="z3998:frontispiece"] img{
+	max-height: 100vh;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figure.full-page{
+	margin: 0;
+	max-height: 100%;
+	page-break-before: always;
+	page-break-after: always;
+	page-break-inside: avoid;
+	text-align: center;
+}
+
 footer{
 	text-align: right;
 	margin-top: 1em;
