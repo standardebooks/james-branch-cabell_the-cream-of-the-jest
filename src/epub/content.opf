@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/james-branch-cabell/the-cream-of-the-jest</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-05-15T22:35:17Z</dc:date>
+		<meta property="dcterms:modified">2020-05-15T22:35:17Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,23 +29,30 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Cream of the Jest</dc:title>
 		<meta property="file-as" refines="#title">Cream of the Jest, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Comedy of Evasions</dc:title>
+		<meta property="file-as" refines="#subtitle">Comedy of Evasions, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Cream of the Jest: A Comedy of Evasions</dc:title>
+		<meta property="file-as" refines="#fulltitle">The Cream of the Jest</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:subject id="subject-1">Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:collection">Dom Manuel</meta>
+		<dc:description id="description">The lines between reality and fantasy begin to blur in the life of an author of fantasy books.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Cream of the Jest&lt;/i&gt; is a later entry in &lt;a href="https://standardebooks.org/ebooks/james-branch-cabell"&gt;James Branch Cabell’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/dom-manuel"&gt;Dom Manuel&lt;/a&gt; series. The series as a whole is a fantasy series, and this entry takes a philosophical turn: after the first few chapters of standard high-fantasy fare, the narrative pulls out to reveal the point of view of the narrative’s author, Felix Kennaston.&lt;/p&gt;
+			&lt;p&gt;Kennaston life slowly starts to blur with his fantasy world. He finds himself constantly dreaming of Etarre, a mysterious, Beatrice-like figure; but every time he tries to touch her, he wakes up. Soon his neglected wife begins to blur in to Etarre, and his increasingly-philosophical dream worlds begin to become less distinguishable from his day-to-day life.&lt;/p&gt;
+			&lt;p&gt;Though &lt;i&gt;The Cream of the Jest&lt;/i&gt; is a kind of capstone to a larger fantasy series, the book itself feels more like philosophy than fantasy. Kennaston’s journeys through his dream worlds explore a series of thoughtful threads, from the interface of thought and reality, to the power of religion, to the human condition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://docsouth.unc.edu/southlit/cabell/menu.html</dc:source>
 		<dc:source>https://books.google.com/books?id=d2yn3fm8sfgC</dc:source>
-		<meta property="se:production-notes">The page scans are of a later edition, which changes the "preface" into "chapter 1", and moves the second half of "Evolution of a Vestryman" into a new chapter, "The Shallowest Sort of Mysticism", which minor tweaks. Unlike the transcription, the page scans number the chapters sequentially. We have followed the page scans in all matters.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">The page scans are of a later edition, which changes the "preface" into "chapter 1", and moves the second half of "Evolution of a Vestryman" into a new chapter, "The Shallowest Sort of Mysticism", and other minor tweaks. Unlike the transcription, the page scans number the chapters sequentially. We have followed the page scans in all matters.</meta>
+		<meta property="se:word-count">45492</meta>
+		<meta property="se:reading-ease.flesch">57.61</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Cream_of_the_Jest</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-branch-cabell_the-cream-of-the-jest</meta>
 		<dc:creator id="author">James Branch Cabell</dc:creator>
