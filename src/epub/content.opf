@@ -40,7 +40,8 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta property="se:collection">Dom Manuel</meta>
+		<meta property="belongs-to-collection" id="collection-1">Dom Manuel</meta>
+		<meta property="collection-type" refines="collection-1">series</meta>
 		<dc:description id="description">The lines between reality and fantasy begin to blur in the life of an author of fantasy books.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Cream of the Jest&lt;/i&gt; is a later entry in &lt;a href="https://standardebooks.org/ebooks/james-branch-cabell"&gt;James Branch Cabell’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/dom-manuel"&gt;Dom Manuel&lt;/a&gt; series. The series as a whole is a fantasy series, and this entry takes a philosophical turn: after the first few chapters of standard high-fantasy fare, the narrative pulls out to reveal the point of view of the narrative’s author, Felix Kennaston.&lt;/p&gt;
