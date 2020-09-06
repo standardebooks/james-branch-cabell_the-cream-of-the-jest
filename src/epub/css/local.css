@@ -30,11 +30,6 @@ footer p + p{
 	margin-top: 1em;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 section[epub|type~="dedication"]{
 	text-align: center;
 }
