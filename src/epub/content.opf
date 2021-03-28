@@ -60,7 +60,7 @@
 		<dc:creator id="author">James Branch Cabell</dc:creator>
 		<meta property="file-as" refines="#author">Cabell, James Branch</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/James_Branch_Cabell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80039689</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80039689</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Johan Vilhelm Gertner</dc:contributor>
 		<meta property="file-as" refines="#artist">Gertner, Johan Vilhelm</meta>
