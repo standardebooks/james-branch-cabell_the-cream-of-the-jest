@@ -116,30 +116,17 @@ p span.i1{
 }
 /* End all epigraphs */
 
-/* Full-page epigraphs */
-section[epub|type~="epigraph"]{
-	text-align: center;
-}
-
-section[epub|type~="epigraph"] > *{
+/* Epigraphs in section headers */
+section > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
-	margin-top: 3em;
 	max-width: 80%;
 	text-align: initial;
 }
 
-@supports(display: flex){
-	section[epub|type~="epigraph"]{
-		align-items: center;
-		box-sizing: border-box;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-	}
-
-	section[epub|type~="epigraph"] > *{
-		margin: 0;
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
 	}
 }
-/* End full-page epigraphs */
+/* End epigraphs in section headers */
