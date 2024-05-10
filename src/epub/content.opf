@@ -55,7 +55,7 @@
 		<dc:source>https://books.google.com/books?id=d2yn3fm8sfgC</dc:source>
 		<meta property="se:production-notes">The page scans are of a later edition, which changes the "preface" into "chapter 1", and moves the second half of "Evolution of a Vestryman" into a new chapter, "The Shallowest Sort of Mysticism", and other minor tweaks. Unlike the transcription, the page scans number the chapters sequentially. We have followed the page scans in all matters.</meta>
 		<meta property="se:word-count">45492</meta>
-		<meta property="se:reading-ease.flesch">57.61</meta>
+		<meta property="se:reading-ease.flesch">58.01</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Cream_of_the_Jest</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-branch-cabell_the-cream-of-the-jest</meta>
 		<dc:creator id="author">James Branch Cabell</dc:creator>
