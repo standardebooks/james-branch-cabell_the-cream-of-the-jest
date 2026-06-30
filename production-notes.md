@@ -1,0 +1,1 @@
+The page scans are of a later edition, which changes the "preface" into "chapter 1", and moves the second half of "Evolution of a Vestryman" into a new chapter, "The Shallowest Sort of Mysticism", and other minor tweaks. Unlike the transcription, the page scans number the chapters sequentially. We have followed the page scans in all matters.
