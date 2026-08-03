@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/james-branch-cabell/the-cream-of-the-jest</dc:identifier>
 		<dc:date>2020-05-15T22:35:17Z</dc:date>
@@ -45,12 +45,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Biography of the Life of Manuel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">16</meta>
-		<dc:description id="description">The lines between reality and fantasy begin to blur in the life of an author of fantasy books.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The lines between reality and fantasy begin to blur in the life of an author of fantasy books.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Cream of the Jest&lt;/i&gt; is a later entry in &lt;a href="https://standardebooks.org/ebooks/james-branch-cabell"&gt;James Branch Cabell’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/biography-of-the-life-of-manuel"&gt;Dom Manuel&lt;/a&gt; series. The series as a whole is a fantasy series, and this entry takes a philosophical turn: after the first few chapters of standard high-fantasy fare, the narrative pulls out to reveal the point of view of the narrative’s author, Felix Kennaston.&lt;/p&gt;
 			&lt;p&gt;Kennaston’s life slowly starts to blur with his fantasy world. He finds himself constantly dreaming of Etarre, a mysterious, Beatrice-like figure; but every time he tries to touch her, he wakes up. Soon his neglected wife begins to blur in to Etarre, and his increasingly philosophical dream worlds begin to become less distinguishable from his day-to-day life.&lt;/p&gt;
 			&lt;p&gt;Though &lt;i&gt;The Cream of the Jest&lt;/i&gt; is a kind of capstone to a larger fantasy series, the book itself feels more like philosophy than fantasy. Kennaston’s journeys through his dream worlds explore a series of thoughtful threads, from the interface of thought and reality, to the power of religion, to the human condition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://docsouth.unc.edu/southlit/cabell/menu.html</dc:source>
 		<dc:source>https://books.google.com/books?id=d2yn3fm8sfgC</dc:source>
