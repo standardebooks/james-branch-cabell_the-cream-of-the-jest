@@ -45,7 +45,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Biography of the Life of Manuel</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">16</meta>
-		<dc:abstract>The lines between reality and fantasy begin to blur in the life of an author of fantasy books.</dc:abstract>
+		<meta property="schema:abstract">The lines between reality and fantasy begin to blur in the life of an author of fantasy books.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Cream of the Jest&lt;/i&gt; is a later entry in &lt;a href="https://standardebooks.org/ebooks/james-branch-cabell"&gt;James Branch Cabell’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/biography-of-the-life-of-manuel"&gt;Dom Manuel&lt;/a&gt; series. The series as a whole is a fantasy series, and this entry takes a philosophical turn: after the first few chapters of standard high-fantasy fare, the narrative pulls out to reveal the point of view of the narrative’s author, Felix Kennaston.&lt;/p&gt;
 			&lt;p&gt;Kennaston’s life slowly starts to blur with his fantasy world. He finds himself constantly dreaming of Etarre, a mysterious, Beatrice-like figure; but every time he tries to touch her, he wakes up. Soon his neglected wife begins to blur in to Etarre, and his increasingly philosophical dream worlds begin to become less distinguishable from his day-to-day life.&lt;/p&gt;
